@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Regarding my availability, I can commit more than 40 hours per week and I am actually working in client's time zone so we can make more than 6 ~ 8 hours of overlapping time every day. 🏋️‍♀️
-- While working as a Web Developer I have strong knowledge and enough experience with different JavaScript frameworks and libraries and was able to complete more than 10 complex websites and web applications using them.
+- 🔭 I am available to commit over 40 hours per week and operate in the EST time zone, ensuring more than 6 to 8 hours of overlapping time daily.  🏋️‍♀️
+- As a Web Developer, I possess strong expertise and substantial experience with various JavaScript frameworks and libraries, having successfully completed over 10 complex websites and web applications.
 - 📫 You can reach me by e-mail: tzztson@gmail.com telegram: [@gungho0619](https://t.me/gungho0619) skype: [Skype](https://join.skype.com/invite/ziOKhrgllIfK)
 
 <!--
