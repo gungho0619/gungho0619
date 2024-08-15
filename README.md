@@ -4,4 +4,5 @@
 - 📫 You can reach me by telegram: [@gungho0619](https://t.me/gungho0619) skype: [Skype](https://join.skype.com/invite/ziOKhrgllIfK)
 
 <image src="https://raw.githubusercontent.com/gungho0619/gungho0619/main/flamingo.png" alt="flamingo.png" />
+<img src="https://komarev.com/ghpvc/?username=gungho0619&style=flat-square&color=grey" />
 <img src="https://profile-counter.glitch.me/gungho0619/count.svg" />  
